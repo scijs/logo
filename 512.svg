@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>512</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="512" sketch:type="MSArtboardGroup">
+            <g id="hex-image" sketch:type="MSLayerGroup" transform="translate(34.707789, -0.624930)" fill="#FFF8DD">
+                <path d="M0.499590312,128.790826 L0.499590312,382.823921 L221.303062,509.978852 L441.555564,382.823921 L441.55556,128.790826 L221.303057,0.624932294 L0.499590312,128.790826 Z" id="border" sketch:type="MSShapeGroup"></path>
+            </g>
+            <g id="RGB" sketch:type="MSLayerGroup" transform="translate(34.707789, 0.375070)">
+                <g id="lower-+-upper-copy-5" transform="translate(0.207789, 231.252624)" sketch:type="MSShapeGroup">
+                    <path d="M423.507545,138.138736 L221.186362,254.915487 L18.971014,138.366452 L221.292211,21.6618538 L423.507545,138.138736 Z M0.499590312,127.832394 L0.499590312,148.946367 L221.303062,276.101298 L441.555564,148.946367 L441.555564,127.50284 L221.027577,0.384432402 L0.499590312,127.832394 Z" id="border" fill="#FFBB91"></path>
+                    <path d="M0.557478906,127.836479 L16.1176236,127.828321 L441.702094,127.605199 L221.12979,254.844639 L11.7216187,134.232757 L0.557478906,127.836479 Z M441.702094,127.589239 L426.141949,127.597397 L0.557478906,127.820518 L221.129783,0.581078835 L430.537954,121.192961 L441.702094,127.589239 Z" id="upper" fill="#FFD2B6"></path>
+                </g>
+                <g id="lower-+-upper-copy-4" transform="translate(123.566569, 133.816332)" sketch:type="MSShapeGroup">
+                    <path d="M0.332942143,56.3111024 L0.220257006,151.666767 L97.5670441,207.72623 L194.670922,151.666767 L194.670925,56.2463271 L97.4256393,0.126059027 L0.332942143,56.3111024 Z" id="border" fill="#FFE891"></path>
+                    <path d="M0.245778655,56.3599401 L7.1058614,56.3563435 L194.735523,56.2579748 L97.4906524,112.354695 L5.16777163,59.1799008 L0.245778655,56.3599401 Z M194.735523,56.2509384 L187.875441,56.2545349 L0.245778655,56.3529036 L97.4906496,0.256183279 L189.81353,53.4309777 L194.735523,56.2509384 Z" id="upper" fill="#FFF0B6"></path>
+                </g>
+                <g id="lower-+-upper-copy-2" transform="translate(0.000000, 0.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
